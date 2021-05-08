@@ -6,7 +6,7 @@
 ![](/images/shell_me.png)
 
 دسترسی به اسکریپت بدید و اجرا کنید
-```bash
+```shell
 sudo chmod 777 ./ali.sh
 ```
 
